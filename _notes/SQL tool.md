@@ -1,0 +1,3 @@
+#tools/sql
+
+sqlfluff meltano
